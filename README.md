@@ -28,10 +28,10 @@ The course includes lecture material and four Google colab notebooks:
 
  - An introduction to JAX: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/00_JAXIntro.ipynb)
 
- - Computational graphs and implementing adjoint methods by hand: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/01_ComputationalGraphsAndAdjointMethods.ipynb)
+ - Computational graphs and implementing adjoint methods by hand: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/01_ComputationalGraphsAndAdjointMethods.ipynb)
 
- - Use of differentiable programming libraries to create differentiable simulators: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/02_DifferentiableSimulatorsAndOptimisation.ipynb)
+ - Use of differentiable programming libraries to create differentiable simulators: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/02_DifferentiableSimulatorsAndOptimisation.ipynb)
 
- - Summary exercises to test and consolidate your knowledge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/03_SummaryExercises.ipynb)
+ - Summary exercises to test and consolidate your knowledge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aidancrilly/MiniCourse-DifferentiableSimulation/blob/main/03_SummaryExercises.ipynb)
 
 This is based on a similar [course](https://github.com/aidancrilly/AIMSLecture) given to the 'AI in Sciences' masters program at the African Institute of Mathematical Sciences (AIMS).
